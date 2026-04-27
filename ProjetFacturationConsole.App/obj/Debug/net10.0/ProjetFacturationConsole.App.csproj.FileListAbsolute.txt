@@ -1,0 +1,15 @@
+C:\Users\adast\Downloads\projet_gestion_factures\ProjetFacturationConsole.App\obj\Debug\net10.0\ProjetFacturationConsole.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adast\Downloads\projet_gestion_factures\ProjetFacturationConsole.App\obj\Debug\net10.0\ProjetFacturationConsole.App.AssemblyInfoInputs.cache
+C:\Users\adast\Downloads\projet_gestion_factures\ProjetFacturationConsole.App\obj\Debug\net10.0\ProjetFacturationConsole.App.AssemblyInfo.cs
+C:\Users\adast\Downloads\projet_gestion_factures\ProjetFacturationConsole.App\obj\Debug\net10.0\ProjetFacturationConsole.App.csproj.CoreCompileInputs.cache
+C:\Users\adast\Downloads\projet_gestion_factures\ProjetFacturationConsole.App\obj\Debug\net10.0\ProjetFacturationConsole.App.sourcelink.json
+C:\Users\adast\Downloads\projet_gestion_factures\ProjetFacturationConsole.App\bin\Debug\net10.0\ProjetFacturationConsole.App.exe
+C:\Users\adast\Downloads\projet_gestion_factures\ProjetFacturationConsole.App\bin\Debug\net10.0\ProjetFacturationConsole.App.deps.json
+C:\Users\adast\Downloads\projet_gestion_factures\ProjetFacturationConsole.App\bin\Debug\net10.0\ProjetFacturationConsole.App.runtimeconfig.json
+C:\Users\adast\Downloads\projet_gestion_factures\ProjetFacturationConsole.App\bin\Debug\net10.0\ProjetFacturationConsole.App.dll
+C:\Users\adast\Downloads\projet_gestion_factures\ProjetFacturationConsole.App\bin\Debug\net10.0\ProjetFacturationConsole.App.pdb
+C:\Users\adast\Downloads\projet_gestion_factures\ProjetFacturationConsole.App\obj\Debug\net10.0\ProjetFacturationConsole.App.dll
+C:\Users\adast\Downloads\projet_gestion_factures\ProjetFacturationConsole.App\obj\Debug\net10.0\refint\ProjetFacturationConsole.App.dll
+C:\Users\adast\Downloads\projet_gestion_factures\ProjetFacturationConsole.App\obj\Debug\net10.0\ProjetFacturationConsole.App.pdb
+C:\Users\adast\Downloads\projet_gestion_factures\ProjetFacturationConsole.App\obj\Debug\net10.0\ProjetFacturationConsole.App.genruntimeconfig.cache
+C:\Users\adast\Downloads\projet_gestion_factures\ProjetFacturationConsole.App\obj\Debug\net10.0\ref\ProjetFacturationConsole.App.dll
